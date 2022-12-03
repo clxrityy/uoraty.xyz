@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+
+#avatar-div {
+    float: right;
+    image-rendering: crisp-edges;
+    image-resolution: from-image 300dpi;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+#header {
+    text-shadow: 1px 1px 2px #000;
+}
+
+#avatar {
+    filter: drop-shadow(1px 1px 5px #000);
+}

@@ -1,0 +1,26 @@
+#notif-title1 {
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.836);
+}
+
+#notif-title2 {
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.836);
+}
+
+#notif-title3 {
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.836);
+}
+
+#notif-title1:hover {
+    transform: scale(1.1);
+    transition: all 500ms ease-out;
+}
+
+#notif-title2:hover {
+    transform: scale(1.1);
+    transition: all 500ms ease-out;
+}
+
+#notif-title3:hover {
+    transform: scale(1.1);
+    transition: all 500ms ease-out;
+}
