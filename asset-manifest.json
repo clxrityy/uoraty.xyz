@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7782f041.css",
+    "main.js": "/static/js/main.2f0828c0.js",
+    "static/js/141.62c8f94d.chunk.js": "/static/js/141.62c8f94d.chunk.js",
+    "static/js/209.c31ed4aa.chunk.js": "/static/js/209.c31ed4aa.chunk.js",
+    "static/js/717.5daf3ae1.chunk.js": "/static/js/717.5daf3ae1.chunk.js",
+    "static/js/208.27cdf174.chunk.js": "/static/js/208.27cdf174.chunk.js",
+    "static/media/product4.jpg": "/static/media/product4.767417bea17688d6d8ce.jpg",
+    "static/media/product2.jpg": "/static/media/product2.e93f12ec1b20980a1bd1.jpg",
+    "static/media/product1.jpg": "/static/media/product1.b8efc7a24c281ed8911b.jpg",
+    "static/media/clxrity.png": "/static/media/clxrity.fef1d8f1129864debe9d.png",
+    "static/media/product3.jpg": "/static/media/product3.be6bce80c539b3222473.jpg",
+    "static/media/avatar3.png": "/static/media/avatar3.013c6cf3e081328c4626.png",
+    "static/media/alien-ship.png": "/static/media/alien-ship.b9c399993e404b4abca4.png",
+    "static/media/avatar2.jpg": "/static/media/avatar2.40d668f58c650e364281.jpg",
+    "static/media/product7.jpg": "/static/media/product7.69341801e3f5245c8020.jpg",
+    "static/media/product6.jpg": "/static/media/product6.3260a3b510aa12fc136b.jpg",
+    "static/media/uoraty_icon.png": "/static/media/uoraty_icon.8a5ac4a44a17cae3c89f.png",
+    "static/media/avatar4.jpg": "/static/media/avatar4.f56b774f77caaf2f6921.jpg",
+    "static/media/product5.jpg": "/static/media/product5.f4c5d8f991b753ca0fcc.jpg",
+    "index.html": "/index.html",
+    "main.7782f041.css.map": "/static/css/main.7782f041.css.map",
+    "main.2f0828c0.js.map": "/static/js/main.2f0828c0.js.map",
+    "141.62c8f94d.chunk.js.map": "/static/js/141.62c8f94d.chunk.js.map",
+    "209.c31ed4aa.chunk.js.map": "/static/js/209.c31ed4aa.chunk.js.map",
+    "717.5daf3ae1.chunk.js.map": "/static/js/717.5daf3ae1.chunk.js.map",
+    "208.27cdf174.chunk.js.map": "/static/js/208.27cdf174.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7782f041.css",
+    "static/js/main.2f0828c0.js"
+  ]
+}
